@@ -3,6 +3,8 @@ demo集合
 
 * 1.局部跑马灯效果HHRunLabelDemo
 
+详解见简书[iOS 局部跑马灯效果实现](http://www.jianshu.com/p/a842dac7f69c)
+
 ![image](https://github.com/Ccalary/HHDemoCollection/blob/master/imageResource/runLabel.png)
 
 * 2.收金币动画HHShootButtonDemo
